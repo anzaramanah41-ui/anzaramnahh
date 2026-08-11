@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Najma Ultah
 
-# Run and deploy your AI Studio app
+A simple birthday web app ready to be published with GitHub Pages.
 
-This contains everything you need to run your app locally.
+## Publish to GitHub Pages
 
-View your app in AI Studio: https://ai.studio/apps/6f3e6515-6c57-4990-84a3-bc7ff649be22
+1. Push this project to GitHub.
+2. Open the repository on GitHub.
+3. Go to Settings → Pages.
+4. Choose Source: GitHub Actions.
+5. Wait for the workflow to finish.
 
-## Run Locally
+Your site will be available at:
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://<your-username>.github.io/najmaultah/
