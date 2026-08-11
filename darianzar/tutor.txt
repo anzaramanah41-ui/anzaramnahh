@@ -1,0 +1,2 @@
+tinggal tambahkan resouces foto, video serta sound yang ingin kamu tambahkan
+kamu taruh untuk resouces nya di folder assets jadi nanti kamu taruh semua resouces yang dibutuhkan didalam folder itu

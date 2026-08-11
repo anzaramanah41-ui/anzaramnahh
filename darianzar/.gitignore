@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Ignore only the huge 363MB video
+assets/fibu foto/VID_20250809_154254.mp4
+
+.vercel
+
+.vercel

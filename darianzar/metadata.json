@@ -1,0 +1,6 @@
+{
+  "name": "Her Special Day",
+  "description": "A beautiful, interactive countdown and memory lane web application to celebrate her special day with letters, memories, and custom wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
