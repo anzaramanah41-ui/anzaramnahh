@@ -12,4 +12,4 @@ A simple birthday web app ready to be published with GitHub Pages.
 
 Your site will be available at:
 
-https://<your-username>.github.io/najmaultah/
+https://anzaramanah41-ui.github.io/anzaramnahh/

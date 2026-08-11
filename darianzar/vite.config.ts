@@ -8,7 +8,7 @@ export default defineConfig(({ command }) => {
 
   return {
     plugins: [react(), tailwindcss()],
-    base: isBuild ? '/najmaultah/' : '/',
+    base: isBuild ? '/anzaramnahh/' : '/',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
